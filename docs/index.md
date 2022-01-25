@@ -7,7 +7,7 @@
 This was a lightweight easy to make project, I honestly don't remember why I worked on it
 
 
-[It was fun](https://okiyitooo.github.io/desmoto-assignment)
+[The learning process was worth-while](https://okiyitooo.github.io/desmoto-assignment/index.html)
 ```
 
 
