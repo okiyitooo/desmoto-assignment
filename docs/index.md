@@ -7,7 +7,7 @@
 This was a lightweight easy to make project, I honestly don't remember why I worked on it
 
 
-[Link](url) and ![Image](src)
+[It was fun](https://okiyitooo.github.io/desmoto-assignment)
 ```
 
 
